@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.ibm.com:seansund/template-spring-boot.git"
+    "url": "https://github.com/cpat-team-one/inventory-management-svc-srd"
   },
   "author": "",
   "license": "ISC",
